@@ -1,0 +1,6 @@
+@EnergyCompanyAccountManager_HostAddress = http://localhost:5045
+
+GET {{EnergyCompanyAccountManager_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
